@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2010\Projects\Assignmentex3\Assignmentex3\bin\Debug\Assignmentex3.exe
+c:\users\acer\documents\visual studio 2010\Projects\Assignmentex3\Assignmentex3\bin\Debug\Assignmentex3.pdb
+c:\users\acer\documents\visual studio 2010\Projects\Assignmentex3\Assignmentex3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2010\Projects\Assignmentex3\Assignmentex3\obj\x86\Debug\Assignmentex3.exe
+c:\users\acer\documents\visual studio 2010\Projects\Assignmentex3\Assignmentex3\obj\x86\Debug\Assignmentex3.pdb
